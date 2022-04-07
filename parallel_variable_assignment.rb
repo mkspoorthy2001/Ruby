@@ -5,7 +5,7 @@ c = 30
 puts a
 puts b
 puts c
-
+# use comma to print multiple variables' values
 puts a, b, c
 print a, b, c
 puts
